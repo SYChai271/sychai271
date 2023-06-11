@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, Machine Learning**
 
-- 👨‍💻 All of my projects are available at [sychai271.github.io](sychai271.github.io)
+- 👨‍💻 All of my projects are available at [sychai271.github.io](https://sychai271.github.io)
 
 - 📫 How to reach me **sychai271@gmail.com**
 
