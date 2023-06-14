@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chai Shao Yang</h1>
 <h3 align="center">Student, Self-taught Developer</h3>
 
-- 🌱 I’m currently learning **React, Machine Learning**
+- 🌱 I’m currently learning **React, AI**
 
 - 👨‍💻 All of my projects are available at [sychai271.github.io](https://sychai271.github.io)
 
