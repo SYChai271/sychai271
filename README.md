@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chai Shao Yang</h1>
+<h1 align="center">Hi 👋, I'm Shao Yang</h1>
 <h3 align="center">Student, Self-taught Developer</h3>
 
 - 🌱 I’m currently learning **React, AI**
